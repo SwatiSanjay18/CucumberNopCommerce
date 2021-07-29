@@ -1,0 +1,5 @@
+utilities\HelperClass.class
+stepDefinitions\LoginSteps.class
+pageObjects\LoginPage.class
+testRunner\TestRun.class
+pageObjects\NewCustomerPage.class

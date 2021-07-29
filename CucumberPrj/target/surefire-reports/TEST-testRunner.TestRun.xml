@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="1" name="testRunner.TestRun" time="23.716" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="cucuprj"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8081/job/cucuprj/5/display/redirect?page=tests"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\Swati\AppData\Local\Jenkins\.jenkins"/>
+    <property name="HUDSON_SERVER_COOKIE" value="61ff423cc2088201"/>
+    <property name="POM_ARTIFACTID" value="CucumberPrj"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_211\jre\classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="CucumberPrj"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\Swati\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_211-b12"/>
+    <property name="WINSW_SERVICE_ID" value="jenkins"/>
+    <property name="user.name" value="Swati"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="cucuprj"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8081/job/cucuprj/5/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#5"/>
+    <property name="OneDrive" value="C:\Users\Swati\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin"/>
+    <property name="LOCALAPPDATA" value="C:\Users\Swati\AppData\Local"/>
+    <property name="java.version" value="1.8.0_211"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="USERNAME" value="Swati"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="OneDriveConsumer" value="C:\Users\Swati\OneDrive"/>
+    <property name="classpath" value=""/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="5"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="maven.conf" value="C:\Program Files\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="JRE_HOME" value="C:\Program Files\Java\jre1.8.0_211;"/>
+    <property name="user.country" value="IN"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_211\jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.0"/>
+    <property name="CATALINA_HOME" value="C:\Program Files\apache-tomcat-8.5.40;"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8081/job/cucuprj/5/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\Swati\AppData\Local\Temp"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8081/job/cucuprj/5/display/redirect?page=artifacts"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.211-b12"/>
+    <property name="user.variant" value=""/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8081/job/cucuprj/display/redirect"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-R8IAG2F"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_211"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="HOMEPATH" value="\Users\Swati"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="user.script" value=""/>
+    <property name="COMPUTERNAME" value="DESKTOP-R8IAG2F"/>
+    <property name="SERVICE_ID" value="jenkins"/>
+    <property name="POM_GROUPID" value="CucumberPrj"/>
+    <property name="user.home" value="C:\Users\Swati"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-cucuprj-5"/>
+    <property name="JENKINS_SERVER_COOKIE" value="61ff423cc2088201"/>
+    <property name="HUDSON_URL" value="http://localhost:8081/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\Swati"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\apache-maven-3.6.1-bin\apache-maven-3.6.1/bin;C:\Program Files\Java\jdk1.8.0_211/bin;C:\Program Files\Java\jdk1.8.0_211/bin;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\ImageMagick-7.0.8-Q16;c:\program files\graphicsmagick-1.3.30-q16;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Swati\AppData\Local\Programs\Python\Python37-32;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\Swati\AppData\Local\Microsoft\WindowsApps;C:\Users\Swati\AppData\Local\atom\bin;C:\Program Files\heroku\bin;C:\Users\Swati\AppData\Local\Microsoft\WindowsApps;C:\Users\Swati\AppData\Roaming\npm;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\Swati\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Program Files\apache-maven-3.6.1-bin\apache-maven-3.6.1"/>
+    <property name="java.class.path" value="C:\Users\Swati\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Program Files\apache-maven-3.6.1-bin\apache-maven-3.6.1\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\apache-maven-3.6.1-bin\apache-maven-3.6.1/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Program Files\apache-maven-3.6.1-bin\apache-maven-3.6.1 C:\Users\Swati\AppData\Local\Jenkins\war\WEB-INF\lib\remoting-4.7.jar C:\Users\Swati\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\Swati\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 63298"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_211/bin;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\ImageMagick-7.0.8-Q16;c:\program files\graphicsmagick-1.3.30-q16;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\Swati\AppData\Local\Programs\Python\Python37-32;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files\apache-maven-3.6.1-bin\apache-maven-3.6.1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\Swati\AppData\Local\Microsoft\WindowsApps;C:\Users\Swati\AppData\Local\atom\bin;C:\Program Files\heroku\bin;C:\Users\Swati\AppData\Local\Microsoft\WindowsApps;C:\Users\Swati\AppData\Roaming\npm"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_211/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 30 Stepping 5, GenuineIntel"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\Program Files\apache-maven-3.6.1-bin\apache-maven-3.6.1"/>
+    <property name="java.io.tmpdir" value="C:\Users\Swati\AppData\Local\Temp\"/>
+    <property name="CI" value="true"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Users\Swati\AppData\Local\Jenkins\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Program Files\apache-maven-3.6.1-bin\apache-maven-3.6.1/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="BUILD_URL" value="http://localhost:8081/job/cucuprj/5/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="C:\Users\Swati\AutomationWorkspace\CucumberPrj"/>
+    <property name="JOB_URL" value="http://localhost:8081/job/cucuprj/"/>
+    <property name="LOGONSERVER" value="\\DESKTOP-R8IAG2F"/>
+    <property name="USERDOMAIN" value="DESKTOP-R8IAG2F"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="C:\Program Files\apache-maven-3.6.1-bin\apache-maven-3.6.1"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="5"/>
+    <property name="BASE" value="C:\Program Files\Jenkins"/>
+    <property name="JENKINS_URL" value="http://localhost:8081/"/>
+    <property name="PROCESSOR_REVISION" value="1e05"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\Swati\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\Swati\AppData\Local\Jenkins\.jenkins\workspace\cucuprj@tmp"/>
+    <property name="WORKSPACE" value="C:\Users\Swati\AppData\Local\Jenkins\.jenkins\workspace\cucuprj"/>
+    <property name="maven3.interceptor.common" value="C:\Users\Swati\AppData\Local\Jenkins\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="WINSW_EXECUTABLE" value="C:\Program Files\Jenkins\jenkins.exe"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="%ProgramFiles%\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+  </properties>
+  <testcase classname="Login" name="Login data driven #1" time="17.999"/>
+  <testcase classname="Login" name="Login data driven #2" time="5.717">
+    <failure type="java.lang.AssertionError">java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:59)
+	at ✽.Page title should be &quot;Dashboard / nopCommerce administration&quot;(file:///C:/Users/Swati/AutomationWorkspace/CucumberPrj/./src/test/resources/Features/login.feature:20)
+</failure>
+    <system-out>
+@mixdatalogin
+Scenario Outline: Login data driven                                         # src/test/resources/Features/login.feature:28
+  Given User launch Chrome browser                                          # stepDefinitions.LoginSteps.user_launch_chrome_browser()
+2021-07-28 17:27:01,073 [main] DEBUG utilities.HelperClass - Opening the application URL
+  When User opens URL &quot;https://admin-demo.nopcommerce.com/login&quot;            # stepDefinitions.LoginSteps.user_opens_url(java.lang.String)
+2021-07-28 17:27:02,790 [main] DEBUG utilities.HelperClass - Enter login credentials
+  And User enters Email as &quot;admin@yourstore.com&quot; and Password as &quot;admin123&quot; # stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(java.lang.String,java.lang.String)
+2021-07-28 17:27:03,076 [main] DEBUG utilities.HelperClass - Click on login button
+  And Click on login button                                                 # stepDefinitions.LoginSteps.click_on_login_button()
+2021-07-28 17:27:04,609 [main] DEBUG utilities.HelperClass - Check if login successful
+  Then Page title should be &quot;Dashboard / nopCommerce administration&quot;        # stepDefinitions.LoginSteps.page_title_should_be(java.lang.String)
+      java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:59)
+	at âœ½.Page title should be &quot;Dashboard / nopCommerce administration&quot;(file:///C:/Users/Swati/AutomationWorkspace/CucumberPrj/./src/test/resources/Features/login.feature:20)
+
+  When User click on Logout link                                            # stepDefinitions.LoginSteps.user_click_on_logout_link()
+  Then Page title should be &quot;Your store. Login&quot;                             # stepDefinitions.LoginSteps.page_title_should_be(java.lang.String)
+  And Close browser                                                         # stepDefinitions.LoginSteps.close_browser()
+</system-out>
+    <system-err>Starting ChromeDriver 92.0.4515.43 (8c61b7e2989f2990d42f859cac71319137787cce-refs/branch-heads/4515@{#306}) on port 25124
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 28, 2021 5:27:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jul 28, 2021 5:27:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 92, so returning the closest version found: a no-op implementation
+Jul 28, 2021 5:27:00 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Unable to find CDP implementation matching 92.
+Jul 28, 2021 5:27:00 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$0
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.0.0-alpha-7` where the version (&quot;v86&quot;) matches the version of the chromium-based browser you&apos;re using and the version number of the artifact is the same as Selenium&apos;s.
+</system-err>
+  </testcase>
+</testsuite>
